@@ -33,15 +33,16 @@ function App() {
 
 
 
-      {/* <Nav/>
+      <Nav/>
       <Home/>
     <Home2/>
     <Home3/>
     <Home4/>
    <Home5/>
    <Home6/>
-   <Home7/> */}
-   <details className="dropdown">
+   <Home7/>
+   
+   {/* <details className="dropdown">
   <summary className="btn m-1">open or close</summary>
   <ul className="menu dropdown-content bg-base-100 rounded-box z-[1] w-52 p-2 shadow">
     <li><a>Item 1</a></li>
@@ -76,7 +77,7 @@ function App() {
   <div className="collapse-content">
     <p>hello</p>
   </div>
-</div>
+</div> */}
 
 
     </>
